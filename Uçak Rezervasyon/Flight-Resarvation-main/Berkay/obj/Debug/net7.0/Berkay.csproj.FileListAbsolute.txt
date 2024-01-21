@@ -1,0 +1,73 @@
+C:\Users\berka\Desktop\projeler\yazılım\vs21\Berkay\Berkay\bin\Debug\net7.0\Berkay.exe
+C:\Users\berka\Desktop\projeler\yazılım\vs21\Berkay\Berkay\bin\Debug\net7.0\Berkay.deps.json
+C:\Users\berka\Desktop\projeler\yazılım\vs21\Berkay\Berkay\bin\Debug\net7.0\Berkay.runtimeconfig.json
+C:\Users\berka\Desktop\projeler\yazılım\vs21\Berkay\Berkay\bin\Debug\net7.0\Berkay.dll
+C:\Users\berka\Desktop\projeler\yazılım\vs21\Berkay\Berkay\bin\Debug\net7.0\Berkay.pdb
+C:\Users\berka\Desktop\projeler\yazılım\vs21\Berkay\Berkay\obj\Debug\net7.0\Berkay.csproj.AssemblyReference.cache
+C:\Users\berka\Desktop\projeler\yazılım\vs21\Berkay\Berkay\obj\Debug\net7.0\Berkay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Desktop\projeler\yazılım\vs21\Berkay\Berkay\obj\Debug\net7.0\Berkay.AssemblyInfoInputs.cache
+C:\Users\berka\Desktop\projeler\yazılım\vs21\Berkay\Berkay\obj\Debug\net7.0\Berkay.AssemblyInfo.cs
+C:\Users\berka\Desktop\projeler\yazılım\vs21\Berkay\Berkay\obj\Debug\net7.0\Berkay.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\projeler\yazılım\vs21\Berkay\Berkay\obj\Debug\net7.0\Berkay.dll
+C:\Users\berka\Desktop\projeler\yazılım\vs21\Berkay\Berkay\obj\Debug\net7.0\refint\Berkay.dll
+C:\Users\berka\Desktop\projeler\yazılım\vs21\Berkay\Berkay\obj\Debug\net7.0\Berkay.pdb
+C:\Users\berka\Desktop\projeler\yazılım\vs21\Berkay\Berkay\obj\Debug\net7.0\Berkay.genruntimeconfig.cache
+C:\Users\berka\Desktop\projeler\yazılım\vs21\Berkay\Berkay\obj\Debug\net7.0\ref\Berkay.dll
+C:\Users\berka\Downloads\deneme\Berkay\bin\Debug\net7.0\Berkay.exe
+C:\Users\berka\Downloads\deneme\Berkay\bin\Debug\net7.0\Berkay.deps.json
+C:\Users\berka\Downloads\deneme\Berkay\bin\Debug\net7.0\Berkay.runtimeconfig.json
+C:\Users\berka\Downloads\deneme\Berkay\bin\Debug\net7.0\Berkay.dll
+C:\Users\berka\Downloads\deneme\Berkay\bin\Debug\net7.0\Berkay.pdb
+C:\Users\berka\Downloads\deneme\Berkay\obj\Debug\net7.0\Berkay.csproj.AssemblyReference.cache
+C:\Users\berka\Downloads\deneme\Berkay\obj\Debug\net7.0\Berkay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Downloads\deneme\Berkay\obj\Debug\net7.0\Berkay.AssemblyInfoInputs.cache
+C:\Users\berka\Downloads\deneme\Berkay\obj\Debug\net7.0\Berkay.AssemblyInfo.cs
+C:\Users\berka\Downloads\deneme\Berkay\obj\Debug\net7.0\Berkay.csproj.CoreCompileInputs.cache
+C:\Users\berka\Downloads\deneme\Berkay\obj\Debug\net7.0\Berkay.dll
+C:\Users\berka\Downloads\deneme\Berkay\obj\Debug\net7.0\refint\Berkay.dll
+C:\Users\berka\Downloads\deneme\Berkay\obj\Debug\net7.0\Berkay.pdb
+C:\Users\berka\Downloads\deneme\Berkay\obj\Debug\net7.0\Berkay.genruntimeconfig.cache
+C:\Users\berka\Downloads\deneme\Berkay\obj\Debug\net7.0\ref\Berkay.dll
+C:\Users\berka\Desktop\deneme\Berkay\bin\Debug\net7.0\Berkay.exe
+C:\Users\berka\Desktop\deneme\Berkay\bin\Debug\net7.0\Berkay.deps.json
+C:\Users\berka\Desktop\deneme\Berkay\bin\Debug\net7.0\Berkay.runtimeconfig.json
+C:\Users\berka\Desktop\deneme\Berkay\bin\Debug\net7.0\Berkay.dll
+C:\Users\berka\Desktop\deneme\Berkay\bin\Debug\net7.0\Berkay.pdb
+C:\Users\berka\Desktop\deneme\Berkay\obj\Debug\net7.0\Berkay.csproj.AssemblyReference.cache
+C:\Users\berka\Desktop\deneme\Berkay\obj\Debug\net7.0\Berkay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Desktop\deneme\Berkay\obj\Debug\net7.0\Berkay.AssemblyInfoInputs.cache
+C:\Users\berka\Desktop\deneme\Berkay\obj\Debug\net7.0\Berkay.AssemblyInfo.cs
+C:\Users\berka\Desktop\deneme\Berkay\obj\Debug\net7.0\Berkay.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\deneme\Berkay\obj\Debug\net7.0\Berkay.dll
+C:\Users\berka\Desktop\deneme\Berkay\obj\Debug\net7.0\refint\Berkay.dll
+C:\Users\berka\Desktop\deneme\Berkay\obj\Debug\net7.0\Berkay.pdb
+C:\Users\berka\Desktop\deneme\Berkay\obj\Debug\net7.0\Berkay.genruntimeconfig.cache
+C:\Users\berka\Desktop\deneme\Berkay\obj\Debug\net7.0\ref\Berkay.dll
+C:\Users\berka\OneDrive\Masaüstü\Flight-Resarvation-main (1)\Flight-Resarvation-main\Berkay\bin\Debug\net7.0\Berkay.exe
+C:\Users\berka\OneDrive\Masaüstü\Flight-Resarvation-main (1)\Flight-Resarvation-main\Berkay\bin\Debug\net7.0\Berkay.deps.json
+C:\Users\berka\OneDrive\Masaüstü\Flight-Resarvation-main (1)\Flight-Resarvation-main\Berkay\bin\Debug\net7.0\Berkay.runtimeconfig.json
+C:\Users\berka\OneDrive\Masaüstü\Flight-Resarvation-main (1)\Flight-Resarvation-main\Berkay\bin\Debug\net7.0\Berkay.dll
+C:\Users\berka\OneDrive\Masaüstü\Flight-Resarvation-main (1)\Flight-Resarvation-main\Berkay\bin\Debug\net7.0\Berkay.pdb
+C:\Users\berka\OneDrive\Masaüstü\Flight-Resarvation-main (1)\Flight-Resarvation-main\Berkay\obj\Debug\net7.0\Berkay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\OneDrive\Masaüstü\Flight-Resarvation-main (1)\Flight-Resarvation-main\Berkay\obj\Debug\net7.0\Berkay.AssemblyInfoInputs.cache
+C:\Users\berka\OneDrive\Masaüstü\Flight-Resarvation-main (1)\Flight-Resarvation-main\Berkay\obj\Debug\net7.0\Berkay.AssemblyInfo.cs
+C:\Users\berka\OneDrive\Masaüstü\Flight-Resarvation-main (1)\Flight-Resarvation-main\Berkay\obj\Debug\net7.0\Berkay.csproj.CoreCompileInputs.cache
+C:\Users\berka\OneDrive\Masaüstü\Flight-Resarvation-main (1)\Flight-Resarvation-main\Berkay\obj\Debug\net7.0\Berkay.dll
+C:\Users\berka\OneDrive\Masaüstü\Flight-Resarvation-main (1)\Flight-Resarvation-main\Berkay\obj\Debug\net7.0\refint\Berkay.dll
+C:\Users\berka\OneDrive\Masaüstü\Flight-Resarvation-main (1)\Flight-Resarvation-main\Berkay\obj\Debug\net7.0\Berkay.pdb
+C:\Users\berka\OneDrive\Masaüstü\Flight-Resarvation-main (1)\Flight-Resarvation-main\Berkay\obj\Debug\net7.0\Berkay.genruntimeconfig.cache
+C:\Users\berka\OneDrive\Masaüstü\Flight-Resarvation-main (1)\Flight-Resarvation-main\Berkay\obj\Debug\net7.0\ref\Berkay.dll
+C:\Users\berka\OneDrive\Masaüstü\Uçak Rezervasyon\Flight-Resarvation-main\Berkay\bin\Debug\net7.0\Berkay.exe
+C:\Users\berka\OneDrive\Masaüstü\Uçak Rezervasyon\Flight-Resarvation-main\Berkay\bin\Debug\net7.0\Berkay.deps.json
+C:\Users\berka\OneDrive\Masaüstü\Uçak Rezervasyon\Flight-Resarvation-main\Berkay\bin\Debug\net7.0\Berkay.runtimeconfig.json
+C:\Users\berka\OneDrive\Masaüstü\Uçak Rezervasyon\Flight-Resarvation-main\Berkay\bin\Debug\net7.0\Berkay.dll
+C:\Users\berka\OneDrive\Masaüstü\Uçak Rezervasyon\Flight-Resarvation-main\Berkay\bin\Debug\net7.0\Berkay.pdb
+C:\Users\berka\OneDrive\Masaüstü\Uçak Rezervasyon\Flight-Resarvation-main\Berkay\obj\Debug\net7.0\Berkay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\OneDrive\Masaüstü\Uçak Rezervasyon\Flight-Resarvation-main\Berkay\obj\Debug\net7.0\Berkay.AssemblyInfoInputs.cache
+C:\Users\berka\OneDrive\Masaüstü\Uçak Rezervasyon\Flight-Resarvation-main\Berkay\obj\Debug\net7.0\Berkay.AssemblyInfo.cs
+C:\Users\berka\OneDrive\Masaüstü\Uçak Rezervasyon\Flight-Resarvation-main\Berkay\obj\Debug\net7.0\Berkay.csproj.CoreCompileInputs.cache
+C:\Users\berka\OneDrive\Masaüstü\Uçak Rezervasyon\Flight-Resarvation-main\Berkay\obj\Debug\net7.0\Berkay.dll
+C:\Users\berka\OneDrive\Masaüstü\Uçak Rezervasyon\Flight-Resarvation-main\Berkay\obj\Debug\net7.0\refint\Berkay.dll
+C:\Users\berka\OneDrive\Masaüstü\Uçak Rezervasyon\Flight-Resarvation-main\Berkay\obj\Debug\net7.0\Berkay.pdb
+C:\Users\berka\OneDrive\Masaüstü\Uçak Rezervasyon\Flight-Resarvation-main\Berkay\obj\Debug\net7.0\Berkay.genruntimeconfig.cache
+C:\Users\berka\OneDrive\Masaüstü\Uçak Rezervasyon\Flight-Resarvation-main\Berkay\obj\Debug\net7.0\ref\Berkay.dll
